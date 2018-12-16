@@ -1,0 +1,3 @@
+In Python you can display a list.
+In Python you can create a simple user entry program.
+In Python you can do a lot of things that would take several times the work in other coding languages.
