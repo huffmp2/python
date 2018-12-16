@@ -1,0 +1,3 @@
+pizzas= ['mushroom and olive', 'garden', 'hawaiian']
+for pizza in pizzas:
+    print (I like " + pizza + ".")

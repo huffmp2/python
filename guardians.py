@@ -1,0 +1,5 @@
+x= input("What is x?")
+x = int(x)
+y= input("What is y?")
+y= int(y)
+print (x>=2 and y !=0 and (x/y)>2)
